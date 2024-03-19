@@ -84,7 +84,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(https://media.istockphoto.com/id/1033277722/photo/textbooks-on-wooden-school-desk-with-chalkboard.webp?b=1&s=170667a&w=0&k=20&c=lvUVsgM4clrr1oNg_En7NVUYoqnPFosvYJffAuokArY=);
+    background-image: url(quali.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,6 +102,12 @@
     height: 70vh;
     width: 60%;
     
+}
+#qualificationdescription th{
+    background: rgba(128, 128, 128, 0.7);
+}
+#qualificationdescription tr{
+    background: rgba(128, 128, 128, 0.276);
 }
 #qualificationdescription table, td,th,tr{
     border:2px solid gray ;

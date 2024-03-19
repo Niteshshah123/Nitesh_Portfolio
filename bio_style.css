@@ -1,0 +1,20 @@
+body{
+    background: #F6EDEA;
+}
+
+.Upper {
+color: green;
+a:hover{
+color:red;
+}
+}
+
+.middle{
+font-family:'Times New Roman', serif;
+}
+table{
+    border-collapse: collapse;
+}
+
+
+
